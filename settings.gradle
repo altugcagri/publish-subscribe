@@ -1,0 +1,6 @@
+rootProject.name = 'publish-subscribe'
+include 'module-a'
+include 'events'
+include 'module-b'
+include 'module-c'
+
